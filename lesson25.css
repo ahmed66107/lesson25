@@ -1,0 +1,26 @@
+th {
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    height: 30px;
+}
+
+td {
+    background-color: orange;
+    text-align: center;
+    height: 30px;
+    vertical-align: middle;
+    transition: 1s;
+}
+
+table {
+    border: 3px solid;
+    border-radius: 10px;
+    /* border-spacing:0 0 ;  */
+    border-spacing: 3px;
+}
+
+/* td:hover{
+background-color:red ;
+} */
